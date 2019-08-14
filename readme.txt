@@ -1,2 +1,3 @@
 ﻿hello world
 hoge
+fuga
